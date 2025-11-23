@@ -1,0 +1,5 @@
+{
+  "name": "EcoGuard FGD Control",
+  "description": "Intelligent Flue Gas Desulfurization (FGD) control platform dashboard visualizing real-time industrial data, efficiency metrics, and emission levels.",
+  "requestFramePermissions": []
+}
